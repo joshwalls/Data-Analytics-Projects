@@ -17,3 +17,7 @@ In this project I analyzed and predicted housing prices through attributes such 
 Project 4: Data Visualization
 
 In this project I created two visualizations in python. One was a bar chart summarizing the results of a survey conducted to gauge an audience interest in data science topics. The other was a chloropleth map of the crime rate in San Francisco.
+
+Project 5: SQL Data Science Project
+
+In this project I worked with three datasets: Socioeconomic Indicators in Chicago, Chicago Public Schools and Chicago Crime Data. First I uploaded the csv data into the IBM's DB2 database management system. Then I performed queries and sub queries to access attributes of the relational databases in python's juptyer notebook environment.  
