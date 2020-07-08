@@ -20,4 +20,8 @@ In this project I created two visualizations in python. One was a bar chart summ
 
 Project 5: SQL Data Science Project
 
-In this project I worked with three datasets: Socioeconomic Indicators in Chicago, Chicago Public Schools and Chicago Crime Data. First I uploaded the csv data into the IBM's DB2 database management system. Then I performed queries and sub queries to access attributes of the relational databases in python's juptyer notebook environment.  
+In this project I worked with three datasets: Socioeconomic Indicators in Chicago, Chicago Public Schools and Chicago Crime Data. First I uploaded the csv data into the IBM's DB2 database management system. Then I performed queries and sub queries to access attributes of the relational databases in python's juptyer notebook environment. 
+
+Project 6: Coronavirus Dataset Research Project
+
+In this project I used a dataset of coronavirus indicators I downloaded from kaggle.com. Then I utilized a python 3 environment to clean the dataset for missing values and formatting errors that would hinder my analysis. After that I did exploratory analysis on the data to try to answer the question: what factors influence daily death increase of coronavirus. Finally, the final product of this project was a linear regression model that showed a strong relationship between daily death increase and my chosen independent variables. I have included more notes embedded in the project that detail my thought process and how I came up my model.    
