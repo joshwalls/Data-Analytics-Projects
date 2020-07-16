@@ -24,4 +24,8 @@ In this project I worked with three datasets: Socioeconomic Indicators in Chicag
 
 Project 6: Coronavirus Dataset Research Project
 
-In this project I used a dataset of coronavirus indicators I downloaded from kaggle.com. Then I utilized a python 3 environment to clean the dataset for missing values and formatting errors that would hinder my analysis. After that I did exploratory analysis on the data to try to answer the question: what factors influence daily death increase of coronavirus. Finally, the final product of this project was a linear regression model that showed a strong relationship between daily death increase and my chosen independent variables. I have included more notes embedded in the project that detail my thought process and how I came up my model.    
+In this project I used a dataset of coronavirus indicators I downloaded from kaggle.com. Then I utilized a python 3 environment to clean the dataset for missing values and formatting errors that would hinder my analysis. After that I did exploratory analysis on the data to try to answer the question: what factors influence daily death increase of coronavirus. Finally, the final product of this project was a linear regression model that showed a strong relationship between daily death increase and my chosen independent variables. I have included more notes embedded in the project that detail my thought process and how I came up my model. 
+
+Project 7: Tableau Data Analysis Project
+
+In this project I used data from Dognition to recommend business process changes to increase completed tests. I created a storypoint in tableau that included bar charts, line charts and dashboards to supplement my recommendations to Dognition. You can find my recommendations in the file entitled Tableau Analysis project and my Tableau storypoint under the file Dognition Recommendations.
